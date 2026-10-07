@@ -1,5 +1,13 @@
 # CalculadoraDescontos
 
+Grupo
+
+Anthony Rafael Braga Magalhães – RA: 4251924039
+Guilherme de Oliveira Navais – RA: 4251923674
+Lucas Paiva Magalhães – RA: 4251925101
+Luca Fernandes – RA: 4251924436
+------//-------//-------//--------///------//-----
+
 Projeto da disciplina de Garantia da Qualidade de Software que demonstra testes
 unitários com xUnit em .NET 10, usando testes parametrizados.
 
